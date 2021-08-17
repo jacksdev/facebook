@@ -5,7 +5,7 @@ import logo from './logo_fb.png'
 function Header() {
 		return (
 			<HeaderContainer>
-				<img src={logo} />
+				<img src={logo} alt="Logo" />
 			</HeaderContainer>
 		)
 }
